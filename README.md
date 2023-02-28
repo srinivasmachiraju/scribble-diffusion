@@ -31,3 +31,7 @@ This app is powered by:
    npm run dev
    ```
 1. Open [localhost:3000](http://localhost:3000) in your browser. That's it!
+
+
+Videa link
+https://www.youtube.com/watch?v=6z07OdbrWOs&ab_channel=Replicate
